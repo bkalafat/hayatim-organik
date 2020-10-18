@@ -64,12 +64,12 @@ html, body {
   }
 
   &__price {
-    color: $color-rolex-green;
+    color: $color-dark;
     margin-left: 10px;
   }
 
   &__from-price {
-    color: $color-rolex-brown;
+    color: $color-purple;
     text-decoration: line-through;
     margin-left: 10px;
   }
@@ -115,7 +115,7 @@ html, body {
     font-size: 100px;
     @include mobile { font-size: 50px; }
     margin: 0;
-    color: $color-rolex-green;
+    color: $color-dark;
   }
 }
 
@@ -187,7 +187,7 @@ html, body {
     padding-right: 8px;
     text-decoration: line-through;
     font-size: 28px;
-    color:$color-rolex-brown;
+    color:$color-purple;
     font-weight: bold;
   }
 
@@ -213,7 +213,7 @@ html, body {
     padding-left: 20px;
     padding-right: 20px;
     border: none;
-    background-color: $color-rolex-green;
+    background-color: $color-dark;
     color: white;
     position: relative;
 
@@ -227,7 +227,7 @@ html, body {
     &:before {
       content: ' ';
       position: absolute;
-      background-color: $color-rolex-green;
+      background-color: $color-dark;
       top: 0;
       left: 0;
       border-radius: 4px;
@@ -266,7 +266,7 @@ html, body {
 
     .colored {
       font-size: inherit;
-      color: $color-rolex-green;
+      color: $color-dark;
     }
   }
 

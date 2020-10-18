@@ -1,7 +1,7 @@
 {
-  "name": "gloryjewellery",
+  "name": "hayatim-organik",
   "version": "1.0.0",
-  "description": "gloryjewellery",
+  "description": "Hayatım Organik",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -31,7 +31,7 @@
     "cors": "^2.8.5",
     "isomorphic-unfetch": "^3.0.0",
     "mongodb": "^3.6.0",
-    "next": "^9.5.1",
+    "next": "^9.5.5",
     "next-connect": "^0.8.1",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
